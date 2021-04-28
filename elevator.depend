@@ -1,0 +1,86 @@
+# depslib dependency file v1.0
+1558443439 source:c:\users\lenovo\desktop\elevator\main.cpp
+	<iostream>
+	<string>
+	<cstdio>
+	<stdlib.h>
+	"elevator.h"
+
+1558869839 c:\users\lenovo\desktop\elevator\elevator.h
+	<iostream>
+	<string>
+
+1558352032 source:c:\users\lenovo\desktop\elevator\celevator.cpp
+	<iostream>
+	<string>
+	"elevator.h"
+
+1557831120 source:c:\users\jsj\desktop\elevator\celevator.cpp
+	<iostream>
+	<string>
+	"elevator.h"
+
+1557835616 c:\users\jsj\desktop\elevator\elevator.h
+
+1557831120 source:c:\users\jsj\desktop\elevator\main.cpp
+	<iostream>
+	<string>
+	"elevator.h"
+
+1558443439 source:c:\users\lenovo\desktop\elevator2\building.cpp
+	<iostream>
+	<string>
+	"windows.h"
+	"elevator.h"
+
+1558443439 source:c:\users\lenovo\desktop\elevator2\main.cpp
+	<iostream>
+	<string>
+	<cstdio>
+	<stdlib.h>
+	"elevator.h"
+
+1558443439 c:\users\lenovo\desktop\elevator2\elevator.h
+	<iostream>
+	<string>
+
+1558352032 source:c:\users\lenovo\desktop\elevator2\celevator.cpp
+	<iostream>
+	<string>
+	"elevator.h"
+
+1558443439 source:c:\users\lenovo\desktop\elevator\building.cpp
+	<iostream>
+	<string>
+	"windows.h"
+	"elevator.h"
+
+1559046463 source:c:\users\jsj\desktop\c++课程设计\elevator\building.cpp
+	<iostream>
+	<string>
+	"windows.h"
+	"elevator.h"
+
+1559040909 c:\users\jsj\desktop\c++课程设计\elevator\elevator.h
+	<iostream>
+	<string>
+
+1559040908 source:c:\users\jsj\desktop\c++课程设计\elevator\celevator.cpp
+	<iostream>
+	<string>
+	"elevator.h"
+
+1559041261 source:c:\users\jsj\desktop\c++课程设计\elevator\main.cpp
+	<iostream>
+	<string>
+	<cstdio>
+	<stdlib.h>
+	"elevator.h"
+
+1559046969 source:c:\users\jsj\desktop\c++课程设计\elevator\functions.cpp
+	<iostream>
+	<string>
+	<cstdio>
+	<stdlib.h>
+	"elevator.h"
+
